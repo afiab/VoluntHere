@@ -1,0 +1,40 @@
+h1 {
+    color:rgb(3, 231, 208);
+}
+
+h3{
+    color:rgb(3, 164, 148);
+}
+
+h4{
+    color:rgb(3, 164, 148);
+}
+
+a{
+    color: rgb(3, 164, 148);
+}
+
+/* STYLE NAV BAR */
+nav {
+    background-color: #c6c5c5;
+    text-align: center;
+    padding: .001em;
+  }
+  
+  li {
+    display: inline;
+    padding: .5em;
+  }
+  
+  li a {
+    text-decoration: none;
+    background-color: #c6c5c5;
+    color: #1c1b1f;
+    font-size: 1.3em;
+  }
+  
+  li a:hover {
+    background-color: #1c1b1f;
+    color: #c6c5c5;
+    font-size: 1.3em;
+  }
